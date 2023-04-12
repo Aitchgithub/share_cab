@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Share Cab</string>
+    <string name="active_book">Active Booking</string>
+    <string name="some_id">25-02-2022</string>
+    <string name="local">Local</string>
+    <string name="outstation">Outstation</string>
+    <string name="am">6:20AM</string>
+    <string name="railway_station_chandigarh_india">Railway station, Chandigarh, India</string>
+    <string name="sedan">Sedan</string>
+    <string name="customers_detail">Customers Detail</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="view">View</string>
+    <string name="location_icon">location_icon</string>
+    <string name="todo">TODO</string>
+    <string name="sector_34a_chandigarh">Sector 34A Chandigarh</string>
+    <string name="railway_station_chandigarh">Railway Station Chandigarh</string>
+    <string name="pickup">Pickup</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="add_button">add button</string>
+    <string name="message_icon">message icon</string>
+    <string name="call_icon">call icon</string>
+    <string name="drop_completed">Drop Completed</string>
+
+</resources>
